@@ -1,0 +1,31 @@
+body{
+    background-color:#797F7D ;
+    color: rgb(0, 255, 21);
+    margin-left: 10%;
+    margin-right: 10%;
+}
+img{
+    border-radius: 25px;
+    margin-left: 0px;
+    box-shadow:12px 2px 2px 2px cornflowerblue;
+    
+
+}
+#sec_education{
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.bg-color{
+    background-color: rgb(0, 102, 255);
+    border-radius: 5px;
+    color:aliceblue;
+    font-size:large;
+    color: antiquewhite;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: underline;
+    
+}
+.subrayar{
+    text-decoration: underline;
+}
